@@ -2,7 +2,7 @@
 
 - 💡 I’m currently working as a Technology Teacher, utilizing the Code.org curriculum.
 - 👀 I’m interested in: full-stack development, cloud engineering, and robotics.
-- 🌱 I’m currently learning Python and wanting to learn AWS Cloud and Arduino.
+- 🌱 I’m currently learning Python and wanting to learn AWS Cloud.
 - 🌟 I have experience with JavaScript, Java, React, and  SQL.
 - 🎯 My goal is to find a job where I can keep learning and make connections in the coding world.
 - 💻 I’m eager to collaborate on projects that enhance my skills and positively impact people's lives. Let’s connect and innovate together!
